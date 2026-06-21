@@ -3,7 +3,7 @@ An enterprise-grade NLP pipeline designed to ingest unstructured text, engineer 
 
 TLDR; 
 
-[![Tableau](https://img.shields.io/badge/Tableau-Live%20Dashboard-orange?style=for-the-badge&logo=tableau)]([YOUR_TABLEAU_PUBLIC_URL_HERE](https://public.tableau.com/app/profile/pagie.tomas/viz/AnNLPJourney-Clouds/Dashboard1))
+👉 Click here to view the [![Tableau](https://img.shields.io/badge/Tableau-Live%20Dashboard-orange?style=for-the-badge&logo=tableau)]([YOUR_TABLEAU_PUBLIC_URL_HERE](https://public.tableau.com/app/profile/pagie.tomas/viz/AnNLPJourney-Clouds/Dashboard1))
 _____________________________________________________________________________________________________________________________________________________________
 
 ## 📖 The Case Study: A STAR Approach
