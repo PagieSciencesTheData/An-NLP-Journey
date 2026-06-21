@@ -20,10 +20,4 @@
 
 ### Data Transformation Sample
 
-**Input (Raw Text):**
-`"   [URGENT MEMO]: Employee ref #12499 reports massive delays in the onboarding system queue. Need to look into manual auditing alternatives ASAP!!   "`
 
-**Output (Engineered Features Array):**
-| Cleansed_Tokens | Primary_Cluster | Priority_Score | Target_Stakeholder |
-| :--- | :---: | :---: | :--- |
-| `['urgent', 'delay', 'onboard', 'system', 'audit']` | **Operations / Queue** | `0.92` | HR Onboarding Lead |
