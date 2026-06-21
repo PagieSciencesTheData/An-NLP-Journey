@@ -3,7 +3,7 @@ An enterprise-grade NLP pipeline designed to ingest unstructured text, engineer 
 
 TLDR; 
 
-👉 Click here to view the https://public.tableau.com/views/AnNLPJourney-Clouds/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+👉 Click here to view the live [Dashboard!](https://public.tableau.com/views/AnNLPJourney-Clouds/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 _____________________________________________________________________________________________________________________________________________________________
 
 ## 📖 The Case Study: A STAR Approach
