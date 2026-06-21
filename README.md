@@ -1,7 +1,7 @@
 # Chaos, Clouds, and Clusters — An NLP Journey
 An enterprise-grade NLP pipeline designed to ingest unstructured text, engineer high-dimensional features, and map hidden thematic structures using advanced Clustering, Topic Modeling, and matrix factorization techniques.
 
-TLDR; 
+TLDR; I took a large collection of unstructured text documents, used machine learning techniques to analyze them, found semantic cluster topics, and then placed them on a chart so non-technical stakeholders can use it to make informed decisions about their workforce which saved 80% of the time it would take manually reviewing them.
 
 👉 Click here to view the live [Dashboard!](https://public.tableau.com/views/AnNLPJourney-Clouds/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 _____________________________________________________________________________________________________________________________________________________________
